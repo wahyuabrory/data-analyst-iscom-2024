@@ -1,8 +1,9 @@
 # Data Analyst Iscom 2024
 
-## Syllabus
+Syllabus
 
-- [Week 1: Introduction to Data Analysis](week1/README.md)
+- [📈 Introduction to Data Analysis](#-introduction-to-data-analysis)
+- [🐍 Introduction to Python](#-introduction-to-python)
 
 ## 🚧 About ISCOM
 
@@ -41,7 +42,7 @@ graph LR;
 - Sharing Session
 - QnA
 
-### [Introduction to Python](/02-intro-python/README.md)
+### [🐍 Introduction to Python](/02-intro-python/README.md)
 
 - Python Programming
 - Variable and Data Types
