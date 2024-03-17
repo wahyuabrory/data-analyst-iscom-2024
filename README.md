@@ -4,6 +4,7 @@ Syllabus
 
 - [📈 Introduction to Data Analysis](#-introduction-to-data-analysis)
 - [🐍 Introduction to Python](#-introduction-to-python)
+- [🗄️ Database](#️-database)
 
 ## 🚧 About ISCOM
 
@@ -48,3 +49,12 @@ graph LR;
 - Variable and Data Types
 - Arithmetic Operations
 - QnA
+
+### [🗄️ Database](/03-database/README.md)
+
+- Entity Model Relationship
+- Key Types
+- Database Management System (DBMS)
+- Database Types
+- Data Types
+- Assignment
